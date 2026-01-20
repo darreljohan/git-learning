@@ -1,1 +1,2 @@
 today is new branch.New line from master
+Add another master line
