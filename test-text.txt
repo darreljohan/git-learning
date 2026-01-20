@@ -1,1 +1,2 @@
 today is new branch.New line from master
+This is Another diff_2 line
